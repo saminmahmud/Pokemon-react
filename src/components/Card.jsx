@@ -2,7 +2,7 @@ import React from "react";
 import Pokemon from './Pokemon';
 
 const Card = (props) => {
-  console.log(props.pokemon)
+  // console.log(props.pokemon)
     return (
         <div className="card bg-base-100 w-64  shadow-xl">
             <figure>
